@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\EmployeeTaskManagmentSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C05CD37-8A02-4742-ABBA-05CD173AE8C8}|EmployeeTaskManagmentSystem.csproj|c:\\users\\user\\source\\repos\\employeetaskmanagmentsystem\\notificationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C05CD37-8A02-4742-ABBA-05CD173AE8C8}|EmployeeTaskManagmentSystem.csproj|solutionrelative:notificationsform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C05CD37-8A02-4742-ABBA-05CD173AE8C8}|EmployeeTaskManagmentSystem.csproj|c:\\users\\user\\source\\repos\\employeetaskmanagmentsystem\\notificationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C05CD37-8A02-4742-ABBA-05CD173AE8C8}|EmployeeTaskManagmentSystem.csproj|solutionrelative:notificationsform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C05CD37-8A02-4742-ABBA-05CD173AE8C8}|EmployeeTaskManagmentSystem.csproj|c:\\users\\user\\source\\repos\\employeetaskmanagmentsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C05CD37-8A02-4742-ABBA-05CD173AE8C8}|EmployeeTaskManagmentSystem.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C05CD37-8A02-4742-ABBA-05CD173AE8C8}|EmployeeTaskManagmentSystem.csproj|c:\\users\\user\\source\\repos\\employeetaskmanagmentsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C05CD37-8A02-4742-ABBA-05CD173AE8C8}|EmployeeTaskManagmentSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotificationsForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeTaskManagmentSystem\\NotificationsForm.Designer.cs",
+              "RelativeDocumentMoniker": "NotificationsForm.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeTaskManagmentSystem\\NotificationsForm.Designer.cs",
+              "RelativeToolTip": "NotificationsForm.Designer.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAgwJUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:47:18.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeTaskManagmentSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeTaskManagmentSystem\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAYwGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:29:55.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotificationsForm.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeTaskManagmentSystem\\NotificationsForm.cs",
+              "RelativeDocumentMoniker": "NotificationsForm.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeTaskManagmentSystem\\NotificationsForm.cs",
+              "RelativeToolTip": "NotificationsForm.cs",
+              "ViewState": "AgIAANsAAAAAAAAAAAAwwPgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T17:20:49.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\EmployeeTaskManagmentSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\EmployeeTaskManagmentSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-26T16:00:09.16Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
